@@ -1,0 +1,9 @@
+configobj>=5.0.6
+configparser>=3.7.4
+numpy>=1.18.1
+packaging>=20.1
+pandas>=1.0.1
+pyparsing>=2.4.6
+pytest>=5.0.1
+python-dateutil>=2.8.1
+PyYAML>=5.3.1

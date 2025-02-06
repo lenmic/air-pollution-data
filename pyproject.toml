@@ -1,0 +1,23 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "air-pollution-data-lenmic"
+version = "0.0.1"
+authors = [
+  { name="Mirche Arsov", email="marsov@lenmic.de" },
+]
+description = "A small package for preprocessing air pollution data and prepare it for ML models."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "GNU GENERAL PUBLIC LICENSE v3.0"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/lenmic/air-pollution-data"
+Issues = "https://github.com/lenmic/air-pollution-data/issues"
